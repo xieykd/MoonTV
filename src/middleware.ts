@@ -124,7 +124,8 @@ function shouldSkipAuth(pathname: string): boolean {
     '/manifest.json',
     '/icons/',
     '/logo.png',
-    '/screenshot.png',
+    '/screenshot'
+    '/api/image-proxy',
   ];
 
   return skipPaths.some((path) => pathname.startsWith(path));
