@@ -102,46 +102,49 @@
       "detail": "https://zy.xmm.hk"
     }
     "souav": {
-      "api": 'https://api.souavzy.vip',
-      "name": 'souav资源',
-      "adult": true
+      "api": "https://api.souavzy.vip",
+      "name": "souav资源",
+      "detail": "https://api.souavzy.vip"
     },
     "r155": {
-        "api": 'https://155api.com',
-        "name": '155资源',
-        "adult": true
+        "api": "https://155api.com",
+        "name": "155资源",
+        "detail": "https://155api.com"
     },
     "lsb": {
-        "api": 'https://apilsbzy1.com',
-        "name": 'lsb资源',
-        "adult": true
+        "api": "https://apilsbzy1.com",
+        "name": "lsb资源",
+        "detail": "https://apilsbzy1.com"
     },
     "huangcang": {
-        "api": 'https://hsckzy.vip',
-        "name": '黄色仓库',
-        "adult": true,
-        "detail": 'https://hsckzy.vip'
+        "api": "https://hsckzy.vip",
+        "name": "黄色仓库",
+        "detail": "https://hsckzy.vip"
     },
     "zuid": {
-        "api": 'https://api.zuidapi.com',
-        "name": '最大资源'
+        "api": "https://api.zuidapi.com",
+        "name": "最大资源",
+        "detail": "https://api.zuidapi.com"
     },
     "yutu": {
-        "api": 'https://yutuzy10.com',
-        "name": '玉兔资源',
-        "adult": true
+        "api": "https://yutuzy10.com",
+        "name": "玉兔资源",
+        "detail": "https://yutuzy10.com"
     },
     "yinghua": {
-        "api": 'https://m3u8.apiyhzy.com',
-        "name": '樱花资源'
+        "api": "https://m3u8.apiyhzy.com",
+        "name": "樱花资源"
+        "detail": "https://m3u8.apiyhzy.com"
     },
     "baidu": {
-        "api": 'https://api.apibdzy.com',
-        "name": '百度云资源'
+        "api": "https://api.apibdzy.com",
+        "name": "百度云资源"
+        "detail": "https://api.apibdzy.com"
     },
     "wujin": {
-        "api": 'https://api.wujinapi.me',
-        "name": '无尽资源'
+        "api": "https://api.wujinapi.me",
+        "name": "无尽资源"
+        "detail": "https://api.wujinapi.me"
     },
   }
 }
